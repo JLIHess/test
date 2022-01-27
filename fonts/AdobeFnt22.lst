@@ -1,0 +1,376 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/mkanner/JLI Dropbox/Mush Kanner/NJR website/NJR website 2021 Folder for Dani/Document fonts/AdobeFnt22.lst
+FileLength:9523
+FileModTime:664400983
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Canela-LightItalic
+FamilyName:Canela
+StyleName:Light Italic
+MenuName:Canela
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Canela Light Italic
+WritingScript:Roman
+OutlineFileName:/Users/mkanner/JLI Dropbox/Mush Kanner/NJR website/NJR website 2021 Folder for Dani/Document fonts/Canela-LightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:203840
+FileModTime:488584194
+NameArray:0,Mac,18,Canela Light Italic
+NameArray:0,Mac,4,Canela Light Italic
+NameArray:0,Win,1,Canela
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Canela-Medium
+FamilyName:Canela
+StyleName:Medium
+MenuName:Canela
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Canela Medium
+WritingScript:Roman
+OutlineFileName:/Users/mkanner/JLI Dropbox/Mush Kanner/NJR website/NJR website 2021 Folder for Dani/Document fonts/Canela-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:190772
+FileModTime:488584038
+NameArray:0,Mac,18,Canela Medium
+NameArray:0,Mac,4,Canela Medium
+NameArray:0,Win,1,Canela
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Canela-Regular
+FamilyName:Canela
+StyleName:Regular
+MenuName:Canela
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Canela Regular
+WritingScript:Roman
+OutlineFileName:/Users/mkanner/JLI Dropbox/Mush Kanner/NJR website/NJR website 2021 Folder for Dani/Document fonts/Canela-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:187220
+FileModTime:488583950
+NameArray:0,Mac,18,Canela Regular
+NameArray:0,Mac,4,Canela Regular
+NameArray:0,Win,1,Canela
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FoundersGroteskText-Bold
+FamilyName:Founders Grotesk Text
+StyleName:Bold
+MenuName:Founders Grotesk Text Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Founders Grotesk Text Bold
+WritingScript:Roman
+OutlineFileName:/Users/mkanner/JLI Dropbox/Mush Kanner/NJR website/NJR website 2021 Folder for Dani/Document fonts/FoundersGroteskText-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:149564
+FileModTime:472340520
+NameArray:0,Mac,4,Founders Grotesk Text Bold
+NameArray:0,Win,1,Founders Grotesk Text Bold
+NameArray:0,Win,16,Founders Grotesk Text
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FoundersGroteskText-Light
+FamilyName:Founders Grotesk Text
+StyleName:Light
+MenuName:Founders Grotesk Text Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Founders Grotesk Text Light
+WritingScript:Roman
+OutlineFileName:/Users/mkanner/JLI Dropbox/Mush Kanner/NJR website/NJR website 2021 Folder for Dani/Document fonts/FoundersGroteskText-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:152432
+FileModTime:472340520
+NameArray:0,Mac,4,Founders Grotesk Text Light
+NameArray:0,Win,1,Founders Grotesk Text Light
+NameArray:0,Win,16,Founders Grotesk Text
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FoundersGroteskText-Medium
+FamilyName:Founders Grotesk Text
+StyleName:Medium
+MenuName:Founders Grotesk Text Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Founders Grotesk Text Medium
+WritingScript:Roman
+OutlineFileName:/Users/mkanner/JLI Dropbox/Mush Kanner/NJR website/NJR website 2021 Folder for Dani/Document fonts/FoundersGroteskText-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:161008
+FileModTime:472340520
+NameArray:0,Mac,4,Founders Grotesk Text Medium
+NameArray:0,Win,1,Founders Grotesk Text Medium
+NameArray:0,Win,16,Founders Grotesk Text
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FoundersGroteskText-Regular
+FamilyName:Founders Grotesk Text
+StyleName:Regular
+MenuName:Founders Grotesk Text Regular
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Founders Grotesk Text
+WritingScript:Roman
+OutlineFileName:/Users/mkanner/JLI Dropbox/Mush Kanner/NJR website/NJR website 2021 Folder for Dani/Document fonts/FoundersGroteskText-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:159028
+FileModTime:472340520
+NameArray:0,Mac,18,Founders Grotesk Text Regular
+NameArray:0,Mac,4,Founders Grotesk Text
+NameArray:0,Win,1,Founders Grotesk Text Regular
+NameArray:0,Win,16,Founders Grotesk Text
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FoundersGroteskText-Semibold
+FamilyName:Founders Grotesk Text
+StyleName:Semibold
+MenuName:Founders Grotesk Text Semibold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Founders Grotesk Text Semibold
+WritingScript:Roman
+OutlineFileName:/Users/mkanner/JLI Dropbox/Mush Kanner/NJR website/NJR website 2021 Folder for Dani/Document fonts/FoundersGroteskText-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:161560
+FileModTime:472340520
+NameArray:0,Mac,4,Founders Grotesk Text Semibold
+NameArray:0,Win,1,Founders Grotesk Text Semibold
+NameArray:0,Win,16,Founders Grotesk Text
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FreightSansProMedium-Regular
+FamilyName:FreightSans Pro
+StyleName:Medium
+MenuName:FreightSans Pro Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:FreightSans Pro Medium
+WritingScript:Roman
+OutlineFileName:/Users/mkanner/JLI Dropbox/Mush Kanner/NJR website/NJR website 2021 Folder for Dani/Document fonts/FreigSanProMed.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:99424
+FileModTime:400731874
+NameArray:0,Mac,4,FreightSans Pro Medium
+NameArray:0,Win,1,FreightSans Pro Medium
+NameArray:0,Win,16,FreightSans Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FreightNeoPro-BookItalic
+FamilyName:Freight Neo Pro
+StyleName:Book Italic
+MenuName:Freight Neo Pro
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Freight Neo Pro Book Italic
+WritingScript:Roman
+OutlineFileName:/Users/mkanner/JLI Dropbox/Mush Kanner/NJR website/NJR website 2021 Folder for Dani/Document fonts/Freight Neo Pro Book Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:153948
+FileModTime:485440826
+NameArray:0,Mac,18,Freight Neo Pro Book Italic
+NameArray:0,Mac,4,Freight Neo Pro Book Italic
+NameArray:0,Win,1,Freight Neo Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FreightNeoPro-Book
+FamilyName:Freight Neo Pro
+StyleName:Book
+MenuName:Freight Neo Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Freight Neo Pro Book
+WritingScript:Roman
+OutlineFileName:/Users/mkanner/JLI Dropbox/Mush Kanner/NJR website/NJR website 2021 Folder for Dani/Document fonts/Freight Neo Pro Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:151020
+FileModTime:485440782
+NameArray:0,Mac,18,Freight Neo Pro Book
+NameArray:0,Mac,4,Freight Neo Pro Book
+NameArray:0,Win,1,Freight Neo Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FreightNeoPro-MediumItalic
+FamilyName:Freight Neo Pro
+StyleName:Medium Italic
+MenuName:Freight Neo Pro
+StyleBits:1
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Freight Neo Pro Medium Italic
+WritingScript:Roman
+OutlineFileName:/Users/mkanner/JLI Dropbox/Mush Kanner/NJR website/NJR website 2021 Folder for Dani/Document fonts/Freight Neo Pro Medium Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:151124
+FileModTime:485440592
+NameArray:0,Mac,18,Freight Neo Pro Medium Italic
+NameArray:0,Mac,4,Freight Neo Pro Medium Italic
+NameArray:0,Win,1,Freight Neo Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FreightNeoPro-Medium
+FamilyName:Freight Neo Pro
+StyleName:Medium
+MenuName:Freight Neo Pro
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Freight Neo Pro Medium
+WritingScript:Roman
+OutlineFileName:/Users/mkanner/JLI Dropbox/Mush Kanner/NJR website/NJR website 2021 Folder for Dani/Document fonts/Freight Neo Pro Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:148960
+FileModTime:485440562
+NameArray:0,Mac,18,Freight Neo Pro Medium
+NameArray:0,Mac,4,Freight Neo Pro Medium
+NameArray:0,Win,1,Freight Neo Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FreightNeoPro-Semibold
+FamilyName:Freight Neo Pro
+StyleName:Semibold
+MenuName:Freight Neo Pro
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Freight Neo Pro Semibold
+WritingScript:Roman
+OutlineFileName:/Users/mkanner/JLI Dropbox/Mush Kanner/NJR website/NJR website 2021 Folder for Dani/Document fonts/Freight Neo Pro Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:153304
+FileModTime:485440106
+NameArray:0,Mac,18,Freight Neo Pro Semibold
+NameArray:0,Mac,4,Freight Neo Pro Semibold
+NameArray:0,Win,1,Freight Neo Pro
+%EndFont
+
