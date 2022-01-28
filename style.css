@@ -1,0 +1,936 @@
+/* Additional fonts */
+/********************/
+/* Grotesk Family   */
+@font-face {
+    font-family: 'GroteskLight';
+    src: url("fonts/FoundersGroteskText-Light.otf");
+}
+@font-face{
+    font-family: 'GroteskRegular';
+    src: url("fonts/FoundersGroteskText-Regular.otf");
+}
+@font-face {
+    font-family: 'GroteskSemiBold';
+    src: url('fonts/FoundersGroteskText-Semibold.otf');
+}
+@font-face {
+    font-family: 'GroteskBold';
+    src: url('fonts/FoundersGroteskText-Bold.otf');
+}
+@font-face {
+    font-family: 'GroteskMedium';
+    src: url('fonts/FoundersGroteskText-Medium.otf');
+}
+
+/* Canela Family */
+@font-face{
+    font-family: 'CanelaLightItalic';
+    src: url('fonts/Canela-LightItalic.otf');
+}
+@font-face{
+    font-family: 'CanelaRegular';
+    src:url('fonts/Canela-Regular.otf')
+}
+
+/* Freight Family */
+@font-face {
+    font-family: 'FreightSemiBold';
+    src: url('fonts/Freight Neo Pro Semibold.otf');
+}
+@font-face {
+    font-family: 'FreightBookItalic';
+    src: url('fonts/Freight Neo Pro Book Italic.otf');
+}
+@font-face {
+    font-family: 'FreightMedium';
+    src: url('fonts/Freight Neo Pro Medium.otf');
+}
+@font-face {
+    font-family: 'FreightMediumItalic';
+    src: url('fonts/Freight Neo Pro Medium Italic.otf');
+}
+
+
+/**************************************************************/
+/* Multi page usage */
+/**************************************************************/
+.bh{
+    text-align: right;
+    color: #29326E;
+    margin-right: 13px;
+}
+.wrapper {
+    margin-right: auto; /* centers content */
+    margin-left: auto; /* centers content */
+    max-width:1100px; /* sets width of content */
+    padding-right: 10px; /* lil padding */
+    padding-left: 10px; /* lil padding */
+    width: 90%;
+}
+/* .gold2{
+    color: #B69A6E;
+    margin-top: 20px;
+} */
+.goldH1{
+    color: #B69A6E;
+    font-family: 'CanelaRegular';
+    /* font-size: 4vw; */
+    font-size: 70px;
+}
+.goldenH2{
+    color: #b79b6e;
+    font-family: 'CanelaRegular';
+    font-size: 50px;
+    line-height: 73px;
+    margin-top: 20px;
+}
+
+/* Nav Bar */
+.navigationBar{
+    background-image: url(assets/marble.jpg);
+    padding-top: 5px;
+    color: #29326e;
+}
+.custom-toggler.navbar-toggler{
+    border-color: #29326E;
+    color: #29326E;
+}
+.custom-toggler .navbar-toggler-icon{
+background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(41, 50, 110, 1)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e")
+}
+.nav-link{
+    line-height: 100px;
+    font-family: 'GroteskRegular';
+    color: #29326e;
+}
+
+/* .bordd{
+
+} */
+
+
+/* Footer */
+.pedicure{
+    background: #17244B;
+    /* height: 200px; */
+    color: #f2e4d6;
+    font-family: 'GroteskLight';
+    font-size: 18px;
+    line-height: 20px;
+    padding-bottom: 30px;
+}
+.footWrapper{
+    /* text-align: center; */
+    margin-right: auto;
+    margin-left: auto;
+    /* font-size: 10px; */
+    max-width: 1100px;
+    padding-right: 10px;
+    padding-left: 10px;
+    width: 90%;
+    padding-top: 90px;
+    /* line-height: 100px; */
+    /* padding-top: px; */
+}
+.footLogo{
+    height: 67px;
+}
+
+
+.footText{
+    float: right;
+    text-align: end;
+}
+
+
+/**************************************************************/
+/* Landing Page */
+/**************************************************************/
+.container-fluid{
+    padding-bottom: 10px;
+}
+.mainHeaderbkgd{
+    background-image: url(Pics/landingPhoto.jpg);
+    color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    /* height: 700px; */
+}
+.mainHeaderText{
+    color: #FFFFFF
+}
+.headTextPlacement{
+    padding-top: 15%;
+    padding-bottom: 15%;
+    /* margin: 0; */
+    /* position: absolute;
+    top: 50%;
+    transform: translateY(-50%); */
+}
+.italicHeaderText{
+    font-family: 'CanelaLightItalic';
+    font-size: 45pt;
+}
+.headerDate{
+    font-family: 'GroteskRegular';
+    font-size: 24px;
+}
+.headerLocation{
+    font-family: 'GroteskSemiBold';
+    font-size: 24px;
+}
+.headButton{
+    float: right;
+}
+.headerButton{
+    background: #B69A6E 0% 0% no-repeat padding-box;
+    font-family: 'FreightSemiBold';
+    border: none;
+    color: #FFFFFF;
+    padding: 9px 20px;
+    /* margin-top: 20px; */
+    border-radius: 6px;
+    font-size: 37px;
+    
+    /* margin: 0;
+    position: absolute;
+    top: 70%;
+    transform: translateY(-70%); */
+}
+
+.meetTheRetreat{
+    background-color: #fbf7f3;
+    height: 680px;  
+}
+.retreatSpacing{
+    padding-top: 20%;
+}
+
+.recap{
+    color: #B69A6E;
+    font-family: 'GroteskBold';
+    font-size: 28px;
+    /* margin-top: 0%; */
+    /* margin-left: 4%; */
+}
+.retreatP{
+    color: #29326E;
+    font-family: 'GroteskLight';
+    font-size: 23px;
+    /* line-height: 24pt; */
+}
+.learnMore{
+    color: #B69A6E;
+    font-family: 'FreightBookItalic';
+    font-size: 27px;
+}
+.goldBox{
+    background: #B69A6E;
+    height: 235px;
+    margin-top: -117.5px;
+    display: grid;
+    align-items: center;
+    text-align: center;
+    border-radius: 180px;
+}
+.numbers{
+    font-family: 'CanelaRegular';
+    color: #f2e4d6;
+    font-size: 75px;
+}
+.numberLabel{
+    font-family: 'FreightMedium';
+    color: #f2e4d6;
+    font-size: 25px;
+}
+
+.retreatPrograms{
+    position: relative;
+}
+/* Top space doesn't effect anything */
+.topSpace{
+    padding-top: 50px;
+}
+.goldenLine{
+    border-bottom: 0.5px solid #b79b6e;
+    padding: 50px 0px;
+}
+.clearLine{
+    padding-top: 75px;
+    padding-bottom: 150px;
+}
+.lead{
+    color: #17244b;
+    font-family: 'GroteskLight';
+    font-size: 25px;
+    line-height: 35px;
+}
+.proImage {
+    border: 1px solid #B69A6E;
+}
+
+.earlyTest{
+    background: #29326e;
+    margin: 0 auto;
+    position: relative;
+    z-index: 2;
+}
+.earlyBird{
+    color: #f2e4d6;
+    /* font-size: 28px; */
+    /* font-family: 'GroteskBold'; */
+    z-index: 1;
+}
+.earlygoldBox{
+    background: #B69A6E;
+    height: 143px;
+    margin-top: -95.5px;
+    /* font-size: 3vw; */
+    /* display: grid;
+    align-items: center;
+    text-align: center; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.birdFix{
+    font-family: 'GroteskBold';
+    font-size: 28px;
+    margin-left: -13%;
+}
+.clearButton{
+    background: transparent;
+    font-family: 'FreightSemiBold';
+    border: solid #f2e4d6 1px;
+    color: #f2e4d6;
+    font-size: 23px;
+    padding: 0px 10px;
+    border-radius: 4px;
+}
+.testimonials{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.testimonialText{
+    font-family: 'FreightMediumItalic';
+    color: #f2e4d6;
+    font-size: 40px;
+}
+.testimonialPerson{
+    font-family: 'FreightMedium';
+    color: #f2e4d6;
+    font-size: 27px;
+}
+
+
+/**************************************************************/
+/* Accomodations Page */
+/**************************************************************/
+.accomodationHeaderBkgd{
+    background: #FFFFFF;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    /* height: 500px; */
+    /* padding-top: 20; */
+    /* margin-top: 20px; */
+}
+.blueHotel{
+    color: #17244B;
+    font-family: 'GroteskMedium';
+    font-size: 25px;
+}
+.blueAddress{
+    color: #17244B;
+    font-family: 'GroteskLight';
+    font-size: 20px;
+}
+.accomodationImg{
+    max-width: 700px;
+}
+
+.accomodationInfo{
+    background: #fbf7f3;
+    padding-top: 80px;
+    padding-bottom: 100px;
+    /* margin-top: 20px; */
+
+}
+.pageSec{
+    border-bottom: #b79b6e solid 1px;
+    /* margin-top: 20px; */
+    margin-bottom: 20px;
+}
+.regularBlue{
+    font-family: 'GroteskRegular';
+    color: #17244B;
+    font-size: 20px;
+
+}
+.lightBlue{
+    font-family: 'GroteskLight';
+    color: #17244b;
+    font-size:18px;
+    /* line-height: 35px; */
+}
+
+
+/**************************************************************/
+/* FAQ Page */
+/**************************************************************/
+.headSpace{
+    margin-top: 100px;
+    text-align: center;
+}
+.spacer {
+    margin-top: 100px;
+}
+.input2 {
+    opacity: 0;
+    position: absolute;
+    z-index: 1;
+}
+.content-inner {
+    margin-top: 20px;
+}
+.content-collapse {
+    /* padding: 20px; */
+    /* box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.5); */
+    /* border-radius: 10px; */
+    /* background-color: white; */
+
+}
+.content-collapse-items {
+    width: 100%;
+    color: #29326E;
+    font-size: 17px;
+    /* font-weight: 500; */
+    border-bottom: 1px solid #b79b6e;
+    overflow: hidden;
+    
+}
+.label-collapse {
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+    font-family: 'GroteskMedium';
+    /* color: red; */
+    /* padding-bottom: 30px; */
+    /* align-content: end; */
+}
+.label-collapse::after {
+    content: '+';
+    text-align: center;
+    /* text-align: right; */
+    transition: all .10s;
+    /* color: red; */
+    /* -ms-transform: rotate(90deg);
+    transform: rotate(90deg); */
+}
+.label-content {
+    max-height: 0;
+    padding: 0 1em;
+    transition: all .10s;
+    /* font-family: 'GroteskLight'; */
+}
+input[type="checkbox"]:checked + .label-collapse::after {
+    content: '-';
+    text-align: center;
+    /* -ms-transform: rotate(-90deg);
+    transform: rotate(-90deg); */
+}
+input[type="checkbox"]:checked + .label-collapse ~ .label-content {
+    max-height: 100%;
+    padding: 16px;
+    color:#17244b;
+    /* color:red; */
+    font-family: 'GroteskLight';
+    /* font-size: 20px; */
+    /* font-family: 'Grotesk'; */
+    /* font-weight: normal; */
+}
+
+.programsFaq{
+    margin-top: 70px;
+    padding-top: 70px;
+    background: #fbf7f3;
+    padding-bottom: 70px;
+}
+
+/* Large Mobile */
+/* @media (max-width:425px){
+
+} */
+
+/* small breakpoint */
+@media (max-width:575.98px){
+    /* Multi-page usage */
+    .goldH1{
+        font-size: 12vw;
+    }
+    .blueHotel{
+        text-align: center;
+    }
+    .footImg{
+        text-align: center;
+    }
+    .footText{
+        margin-top: 50px;
+    }
+    
+
+    /* Landing Page */
+        .numbers{
+        font-size: 11vw;
+    }
+    .numberLabel{
+        font-size: 4vw;
+    }
+    
+
+    /* FAQ page */
+    .headSpace{
+        margin-top: 50px;
+        margin-bottom: -30px;
+    }
+
+
+}
+
+/* medium brekpoint */
+@media (max-width:767.98px){
+  
+    .headButton{
+        float: none;
+    }
+    .birdFix{
+        margin-left: 0;
+        /* font-size: ; */
+    }
+  
+  
+}
+/* @media (min-width:768) */
+
+@media (max-width:921.98px){
+    .birdFix{
+        font-size: 20px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media (max-width:768px){
+    .navPic{
+        width: 100px;
+        height: auto;
+        /* border: #b79b6e solid 5px; */
+    /* }
+}  */
+
+
+
+
+/* @media (max-width: 480px) {
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.registrationMainSpace{
+    /* background: #ddd; 
+    /* background: #f1e3d577;
+    background: red;
+    /* width: 92%;
+    max-width: 920%; 
+    margin: 0 auto;
+    position: relative;
+    z-index: 2;
+    /* margin-top: -220px; 
+
+}*/
+
+
+
+
+
+
+
+
+/* .goldBtn {
+    background: #B69A6E 0% 0% no-repeat padding-box;
+    font-family: 'FreightSemiBold';
+    border: none;
+    color: #FFFFFF;
+    padding: 9px 20px;
+    margin-top: 20px;
+    border-radius: 6px;
+    font-size: 37pt;
+  } */
+
+
+
+
+/* h1, h2, h3, h4, h5{
+    font-weight: normal;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+.headText {
+    this centers the text horizontally and vertically
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.headerbkgd{
+    background-color: #12275C;
+    color: white;
+    /* height: 300px;
+    position: relative; */
+}
+
+.registrationHeader{
+    background-color: #12275C;
+    color: #FFFFFF;
+    height: 386px;
+    z-index: 1;
+    /* color: #f1e3d577; */
+}
+
+
+
+.registration{
+   /* position: center; */
+    margin-right: auto;
+    margin-left: auto; 
+    max-width:1100px; 
+    /* padding-right: 1px;
+    padding-left: 1px;  */
+    width: 90%;
+    margin-top: -220px;
+
+    /* position: center;
+    width:80%;
+    max-width: 500px; */
+    /* padding-bottom: 10px; */
+}
+
+.sidebarRegistration{
+    background-color: #F1E3D5;
+    /* padding-left: 0px; */
+}
+
+.formSpace{
+    margin-right: auto;
+    margin-left:auto;
+    width: 90%;
+}
+
+.mainRegistration{
+    background: #FFFFFF;
+    /* width: 90%; */
+    /* padding-right: 0px; */
+}
+
+
+
+
+
+
+
+  .regHeadText{
+    /* width: 92%;
+    max-width: 920px; */
+    /* margin: 0 auto; */
+    text-align: center;
+  }
+
+  /* .regHeadText h1{
+    font-size: 4em;
+    color: #FFFFFF;
+    font-weight: 100;
+    margin-top: 50px;
+  } */
+
+ 
+  /* .programHead {
+    padding: 2%;
+    text-align: center;
+  } */
+
+ 
+
+  /* .headBtn{
+      border: 3px solid #B69A6E;
+      border-radius: 6px;
+  } */
+
+
+
+.purpBtn {
+    margin:0 auto;
+    display:block;
+    color: #29326E;
+    border: 5px solid #29326E;
+    background-color: inherit;
+    font-size: 30px;
+    border-radius: 6px;
+}
+
+
+.form-group{
+    margin-top: 20px;
+}
+.formPart{
+    margin-top: 30px;
+    border: #5f5f613a solid 0.1px;
+    padding: 10px;
+    background-color: #b69a6e6b;
+}
+
+.formHeader{
+    text-align: center;
+}
+
+label{
+    margin-bottom: 10px;
+}
+
+.sideInfo{
+    margin-top: 30px;
+    text-align: center;
+    background-color: #b69a6e6b;
+
+}
+
+.paragraph-light{
+    opacity: 0.6;
+    color: #29326E;
+}
+
+.submitBtn{
+    background: #B69A6E;
+    color: #FFFFFF;
+}
+.details-wrap{
+    margin-bottom: 30px;
+}
+.label {
+    margin-bottom: 10px;
+}
+
+.pageHead{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+.facultyBackground{
+    background-color: #29326E;
+}
+
+
+.facultyPic{
+    width: auto;
+    height: 320px;
+    margin-bottom: 10px;
+    background-color: #f4f4f4;
+}
+
+
+.facultyInfo{
+margin-bottom: 30px;
+color: #FFFFFF;
+}
+
+
+/* Countdown clock */
+
+.timerBack{
+    background-color: #12275C;
+}
+
+.clockWrapper{
+    margin-right: auto; /* 1 */
+    margin-left: auto; /* 1 */
+    max-width:500px; /* 2 */
+    padding-right: 10px; /* 3 */
+    padding-left: 10px; /* 3 */
+    width: 90%;
+}
+
+.clock{
+    text-align: center;
+    font-weight: 100;
+    padding-top: 20px;
+}
+
+.countdownClock{
+    font-family: sans-serif;
+    color: #fff;
+    font-weight: 100;
+    text-align: center;
+    margin-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+
+
+
+
+/* .with-chevron[aria-expanded='true'] i {
+    display: block;
+    transform: rotate(180deg) !important;
+  } */
+
+
+
+/* .label{
+    margin-bottom: 10px;
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+} */
+
+
+
+
+/* .whiteout{
+    color: #FFFFFF;
+
+} */
+
+
+
+
+
+
+
+
+/* TIMER TEST */
+
+
+
+
